@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+.env
+
+# Editor and operating system
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
